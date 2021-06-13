@@ -36,7 +36,7 @@ We can see that the input attributes have a mixture of units.
 
 
 
-## **Task:** Perform EDA Exploratory Data Analysis on the data set
+## **Task 3:** Perform EDA Exploratory Data Analysis on the data set
 
 - Link to data set
 https://www.kaggle.com/ramjidoolla/ipl-data-set
