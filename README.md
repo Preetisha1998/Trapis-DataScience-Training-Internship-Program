@@ -38,7 +38,7 @@ We can see that the input attributes have a mixture of units.
 
 ## **Task 3:** Perform EDA Exploratory Data Analysis on the data set
 
-- Link to data set(https://www.kaggle.com/ramjidoolla/ipl-data-set)
+- [The dataset is available here](https://www.kaggle.com/ramjidoolla/ipl-data-set)
 
 The Indian Premier League (IPL) is a professional Twenty20 cricket league in India usually contested between March and May of every year by eight teams representing eight different cities or states in India.The league was founded by the Board of Control for Cricket in India (BCCI) in 2007. The IPL has an exclusive window in ICC Future Tours Programme.
 
