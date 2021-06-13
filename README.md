@@ -2,6 +2,7 @@
 This repository contains the solution of the 3 tasks provided to me in "Trapis Data Science Training/Internship Program"
 
 ## **Task 2**: Predict housing prices using machine learing algorithm and perform EDA on the data set 
+- [The dataset is available here](https://www.kaggle.com/vikrishnan/boston-house-prices)
 
 ### Context
 
