@@ -106,4 +106,4 @@ This Notebook contains various movies and their IMDB information. They are as fo
 
 I have used the **cosine similarity** to calculate a numeric quantity that denotes the similarity between two movies. Cosine similarity score is used since it is independent of magnitude and is relatively easy and fast to calculate. Mathematically, it is defined as follows:
 
-![image.png](attachment:image.png)
+![image](https://user-images.githubusercontent.com/67048227/122387230-47171c00-cf8c-11eb-8bbc-b2a2d409d9a8.png)
