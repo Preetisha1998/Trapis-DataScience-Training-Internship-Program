@@ -63,3 +63,47 @@ There are few changes that we can see in the names of the teams, in these datase
 - Deccan Chargers is renamed to Sunrisers Hyderabad 
 - Delhi Daredevils is renamed to Delhi Capitals
 - Pune Warriors is renamed to Rising Pune Supergiants.
+
+
+
+## **Task 4**: Build a movie recommendation system using the given data set. 
+- [The dataset is available here](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
+
+### Dataset Information
+
+This Notebook contains various movies and their IMDB information. They are as follows:-
+
+|**Feature**|**Description**|
+|----|----|
+|color|It contains the information whether the movies are coloured or black and white.|
+|director_name|It contains the name of the director for that movie.|
+|num_critic_for_reviews|Number of critic for reviews of that movie.|
+|duration|This feature has the duration of the movie.|
+|director_facebook_likes|Number of likes of the Director on his/her Facebook Page.|
+|actor_3_facebook_likes|Number of likes of the Actor_3 on his/her Facebook Page.|
+|actor_2_facebook_likes| Number of likes of the Actor_2 on his/her Facebook Page.|
+|actor_1_facebook_likes|Number of likes of the Actor_1 on his/her Facebook Page.|
+|gross| The Gross amount for the movie.|
+|genres|The genre og the movie.|
+|actor_1_name|Name of the 1st actor.|
+|movie_title|Title/Name of the movie.|
+|num_voted_users|Number of users who voted for the movie.|
+|cast_total_facebook_likes|Total Facebook likes for the cast of the movie.|
+|actor_2_name|Name of the 2nd actor.|
+|actor_3_name|Name of the 3rd actor.|
+|facenumber_in_poster|Number of posters on the Facebook.|
+|plot_keywords|Keywords that can be used to identify the plots in the movie.|
+|movie_imdb_link|The IMDB link of that movie.|
+|num_user_for_reviews|Number of users who wrote reviews.|
+|language|Language of the movie.|
+|country|Country in which the movie was made.|
+|content_rating|Rating of the content of the movie.|
+|budget|Budget used for making the movie.|
+|title_year|The year in which title of the movie was launched.|
+|imdb_score|The IMBD score or rating for the movie.|
+|aspect_ratio|It is the ratio of width to height of the scenes in that movie.|
+|movie_facebook_likes|Number of likes for that movie on Facebook.|
+
+I have used the **cosine similarity** to calculate a numeric quantity that denotes the similarity between two movies. Cosine similarity score is used since it is independent of magnitude and is relatively easy and fast to calculate. Mathematically, it is defined as follows:
+
+![image.png](attachment:image.png)
